@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohtheiqua.bayes.dk/sitemap.xml
